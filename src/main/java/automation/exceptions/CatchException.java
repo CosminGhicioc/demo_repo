@@ -17,7 +17,7 @@ public class CatchException {
 		}
 
 		catch (Throwable ex) {
-			System.out.println("A single argument must be provided.");
+			System.out.println("A single argument must be provided..");
 
 		}
 	}
