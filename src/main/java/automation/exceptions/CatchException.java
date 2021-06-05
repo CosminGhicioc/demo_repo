@@ -12,7 +12,7 @@ public class CatchException {
 			System.out.println("First argument needs to be an int " + ex.getMessage());
 
 		} catch (ArrayIndexOutOfBoundsException ex) {
-			System.out.println("A single argument must be provided.");
+			System.out.println("A single argument must be provided...");
 
 		}
 
